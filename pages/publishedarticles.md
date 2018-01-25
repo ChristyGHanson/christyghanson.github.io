@@ -14,11 +14,11 @@ title: Published Articles
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 
-[ENCOURAGEMENT, DILIGENCE AND A DESIRE TO MAKE HER PARENTS PROUD HELP ALUM EARN HER APU DEGREE](https://www.alaskapacific.edu/stories/encouragement-diligence-and-a-desire-to-make-her-parents-proud-help-alum-earn-her-apu-degree/)
+[Encouragement, diligence and a desire to make her parents proud help alum earn her APU degree](https://www.alaskapacific.edu/stories/encouragement-diligence-and-a-desire-to-make-her-parents-proud-help-alum-earn-her-apu-degree/)
 
-[FIRST IN HER FAMILY TO EARN A COLLEGE DEGREE, PAOLI CREDITS APU’S WORK-FRIENDLY SCHEDULE](https://www.alaskapacific.edu/stories/first-in-her-family-to-earn-a-college-degree-paoli-credits-apus-work-friendly-schedule/)
+[First in her family to earn a college degree, Paoli credits APU’s work-friendly schedule](https://www.alaskapacific.edu/stories/first-in-her-family-to-earn-a-college-degree-paoli-credits-apus-work-friendly-schedule/)
 
-[PLANNING TO TAKE ONE CLASS, DUNNO STAYED ON TO EARN AN APU DEGREE. THEN ANOTHER.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
+[Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
 
 ### DIN Magazine
 

@@ -2,6 +2,8 @@
 title: Published Articles
 ---
 
+- Note: I'm still getting the hang of GitHub, Markdown, and HTML. I just started learning how to use code to make webpages as of a few days ago. I have also started my lessons in Swift using Playgrounds on iOS. Bear with me. This site will look a lot prettier in the coming days.
+
 ### American Indian Republic
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
@@ -23,4 +25,7 @@ title: Published Articles
 ### DIN Magazine
 
 ["Chant This Song If You Get Touched By the White Man"](https://english.nmsu.edu/organizations/din-magazine/)
+
+
+
 

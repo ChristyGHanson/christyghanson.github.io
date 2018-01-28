@@ -4,7 +4,7 @@ title: Published Articles
 
 ## Articles and Poetry Published by Christy Hanson
 
-- I'm still getting the hang of GitHub, Markdown, and HTML. I just started learning how to use code to make webpages as of a few days ago. I have also started my lessons in Swift using Playgrounds on iOS. Bear with me. This site will look a lot prettier in the coming days.
+- I'm still getting the hang of GitHub, Markdown, and HTML. I just started learning how to use code to make webpages as of a few days ago. I have also started my lessons in Swift using Playgrounds on iOS. Bear with me. This site will require so much polish. The next step is to figure out how to link all my scattered web pages together. (Ever get a sense of déjà vu? It's hitting me right now.)
 
 ### American Indian Republic
 

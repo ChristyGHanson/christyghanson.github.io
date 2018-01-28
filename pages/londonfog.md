@@ -35,6 +35,6 @@ Prep Time: *Don't rush it since it's stove-top.*
 
 1. Stir in vanilla extract and sugar.
 
-1. Gently pour the milk. Layer the foam on the surface.  
+1. Gently pour in the milk. Layer the foam on the surface.  
 
 ### *Enjoy the fog.*

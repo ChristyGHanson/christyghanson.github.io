@@ -1,4 +1,4 @@
-## Christy's GitHub Learning Resources
+## Markdown and Github Educational Resources
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/)
 

@@ -1,4 +1,4 @@
-## Markdown and Github Educational Resources
+### Markdown and Github Educational Resources
 
 [Daring Fireball](https://daringfireball.net/projects/markdown/)
 

@@ -22,7 +22,7 @@ Prep Time: *Don't rush it since it's stove-top prep.*
 * spoon
 * a large mug (or a *latte mug*, you mug snobs)
 
-### Prep 
+## Prep 
 
 1. Heat the water to a boil using a stove.
 
@@ -38,4 +38,4 @@ Prep Time: *Don't rush it since it's stove-top prep.*
 
 1. Gently pour in the milk. Layer the foam on the surface.  
 
-### *Enjoy the fog.*
+*Enjoy the fog.*

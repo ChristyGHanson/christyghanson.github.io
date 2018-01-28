@@ -1,6 +1,7 @@
 ## Outlander London Fog
 
 *This yields about 16 fl. oz of hozho.*
+
 Prep Time: *Don't rush it since it's stove-top prep.*
 
 ## Ingredients

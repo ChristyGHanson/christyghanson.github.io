@@ -1,4 +1,4 @@
- ## A Brief Update on My *Mistborn* Journey: The First Trilogy
+A Brief Update on My *Mistborn* Journey: The First Trilogy
 
 Hello, all.
 I have just finished reading the second *Mistborn* book by Brandon Sanderson, *Mistborn: The Well of Ascension.* Spending all night flipping through this fat tome was worth several hours of non-stop yawning and coffee-guzzling at my day job. 

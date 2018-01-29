@@ -7,7 +7,7 @@ Prep Time: *Don't rush it since it's stove-top prep.*
 ## Ingredients
 
 * 2 tea bags of your favorite brand of Earl Grey
-* 10 fl. oz. uranium-free water
+* 11 fl. oz. uranium-free water
 * 6 fl. oz. organic whole milk
 * 1 Tbsp. granulated cane sugar (or any sweetener)
 * 1/4 tsp. vanilla extract

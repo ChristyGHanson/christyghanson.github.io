@@ -6,11 +6,11 @@ title: Published Articles
 
 - I'm still getting the hang of GitHub, Markdown, and HTML. I just started learning how to use code to make webpages as of a few days ago. I have also started my lessons in Swift using Playgrounds on iOS. Bear with me. This site will require so much polish. The next step is to figure out how to link all my scattered web pages together. (Ever get a sense of déjà vu? It's hitting me right now.)
 
-### American Indian Republic
+### American Indian Republic (2018)
 
-[1/01/2018 - Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
+[Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 
-[1/29/2018 - A STEM Conversation with a NASA JPL Mechanical Engineer](https://americanindianrepublic.com/a-stem-conversation-with-a-nasa-jpl-mechanical-engineer/)
+[A STEM Conversation with a NASA JPL Mechanical Engineer](https://americanindianrepublic.com/a-stem-conversation-with-a-nasa-jpl-mechanical-engineer/)
 
 ### Raven Chronicles
 

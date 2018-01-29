@@ -8,13 +8,15 @@ title: Published Articles
 
 ### American Indian Republic
 
-[Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
+[1/01/2018 - Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
+
+[1/29/2018 - A STEM Conversation with a NASA JPL Mechanical Engineer](https://americanindianrepublic.com/a-stem-conversation-with-a-nasa-jpl-mechanical-engineer/)
 
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/)
 
-### Alaska Pacific University
+### Alaska Pacific University (2012)
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 

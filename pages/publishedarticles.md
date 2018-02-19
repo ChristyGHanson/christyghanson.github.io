@@ -12,6 +12,8 @@ title: Published Articles
 
 [A STEM Conversation with a NASA JPL Mechanical Engineer](https://americanindianrepublic.com/a-stem-conversation-with-a-nasa-jpl-mechanical-engineer/)
 
+[Symptoms of Eroding Treaty Responsibility to Indian Health Care](https://americanindianrepublic.com/symptoms-of-eroding-treaty-responsibility-to-indian-health-care/)
+
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/)

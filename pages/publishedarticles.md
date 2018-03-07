@@ -14,6 +14,8 @@ title: Published Articles
 
 [Symptoms of Eroding Treaty Responsibility to Indian Health Care](https://americanindianrepublic.com/symptoms-of-eroding-treaty-responsibility-to-indian-health-care/)
 
+[Healing and Wellness with Herbs: The Story of Quw'utsun' Made](https://americanindianrepublic.com/healing-and-wellness-with-herbs-the-story-of-quwutsun-made/)
+
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 

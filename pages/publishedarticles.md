@@ -14,6 +14,8 @@ title: Published Articles
 
 [Healing and Wellness with Herbs: The Story of Quw'utsun' Made](https://americanindianrepublic.com/healing-and-wellness-with-herbs-the-story-of-quwutsun-made/)
 
+[Energy Sovereignty Projects Loom on the Horizon for Spokane Tribe](https://americanindianrepublic.com/energy-sovereignty-projects-loom-on-the-horizon-for-spokane-tribe/)
+
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 

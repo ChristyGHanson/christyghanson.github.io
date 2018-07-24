@@ -16,6 +16,14 @@ title: Published Articles
 
 [Energy Sovereignty Projects Loom on the Horizon for Spokane Tribe](https://americanindianrepublic.com/energy-sovereignty-projects-loom-on-the-horizon-for-spokane-tribe/)
 
+[Lessons Learned: Apache Street Artist Paints in Paradise](https://americanindianrepublic.com/lessons-learned-apache-street-artist-paints-in-paradise/)
+
+[The Art and Spirituality Connection in Traditional Tlingit Carving](https://americanindianrepublic.com/the-art-and-spirituality-connection-in-traditional-tlingit-carving/)
+
+[The Business of Storytelling for Indian Country](https://americanindianrepublic.com/the-business-of-storytelling-for-indian-country/)
+
+[Myths and Stereotypes Persist in Education](https://americanindianrepublic.com/myths-and-stereotypes-persist-in-education/)
+
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 

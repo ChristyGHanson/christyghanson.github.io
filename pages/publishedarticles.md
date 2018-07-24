@@ -27,7 +27,7 @@ title: Published Articles
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
-This poem was nominated for the Pushcart Prize!
+(Nominated for the Pushcart Prize.)
 
 ### Alaska Pacific University 
 

@@ -2,7 +2,7 @@
 title: Online Publications
 ---
 
-## Articles and Poetry Published by Christy Hanson
+## Published Work by Christy Hanson
 
 ### American Indian Republic 
 

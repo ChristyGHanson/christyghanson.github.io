@@ -24,6 +24,12 @@ title: Published Articles
 
 [Myths and Stereotypes Persist in Education](https://americanindianrepublic.com/myths-and-stereotypes-persist-in-education/)
 
+[A Conversation with Navajo Presidential Candidate Trudie Jackson](https://americanindianrepublic.com/a-conversation-with-navajo-presidential-candidate-trudie-jackson/)
+
+[Walls of Bitterness: Why Indigenous Christian Worship is Essential](https://americanindianrepublic.com/walls-of-bitterness-why-indigenous-christian-worship-is-essential/)
+
+[Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
+
 ### Raven Chronicles
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 

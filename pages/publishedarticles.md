@@ -2,7 +2,9 @@
 title: Online Publications
 ---
 
-# Christy G. Hanson 
+# Christy G. Hanson
+## chrsthnsn@gmail.com
+
 ## Published Work
 
 #### American Indian Republic - Puyallup, Washington

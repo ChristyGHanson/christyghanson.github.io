@@ -1,6 +1,5 @@
 ---
 title: Christy G. Hanson
----
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 ### American Indian Republic, Puyallup, WA 

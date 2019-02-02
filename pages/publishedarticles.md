@@ -3,7 +3,6 @@ title: Online Publications
 ---
 
 # Christy G. Hanson
-## chrsthnsn@gmail.com
 ## [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 
 ## Published Work

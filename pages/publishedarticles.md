@@ -3,7 +3,7 @@ title: Christy G. Hanson
 ---
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 
-#### American Indian Republic, 2018 - Present
+### American Indian Republic, 2018 - Present
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 
@@ -29,12 +29,12 @@ title: Christy G. Hanson
 
 [Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
 
-#### The Raven Chronicles - Seattle, WA
+### The Raven Chronicles - Seattle, WA
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
 (Nominated for the Pushcart Prize.)
 
-#### Alaska Pacific University - Anchorage, AK
+### Alaska Pacific University - Anchorage, AK
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 
@@ -44,7 +44,7 @@ title: Christy G. Hanson
 
 [Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
 
-#### DIN Magazine - Las Cruces, NM
+### DIN Magazine - Las Cruces, NM
 
 ["Chant This Song If You Get Touched By the White Man"](https://english.nmsu.edu/organizations/din-magazine/)
 

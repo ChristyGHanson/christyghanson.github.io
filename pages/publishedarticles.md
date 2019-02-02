@@ -49,7 +49,7 @@ title: Christy G. Hanson
 ### The Raven Chronicles - Seattle, WA
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
-(Nominated for the Pushcart Prize.)
+(2013 Pushcart Nominated)
 
 ### DIN Magazine - Las Cruces, NM
 

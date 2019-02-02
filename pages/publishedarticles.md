@@ -2,7 +2,7 @@
 title: Online Publications
 ---
 
-## Christy G. Hanson
+# Christy G. Hanson
 #### Freelance Writer
 
 #### [LinkedIn](https://www.linkedin.com/in/christyghanson/)

@@ -3,6 +3,7 @@ title: Christy G. Hanson
 ---
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 
+
 ### American Indian Republic, Puyallup, WA 
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)

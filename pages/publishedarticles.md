@@ -1,5 +1,5 @@
 ---
-title: Published Articles
+title: Online Publications
 ---
 
 ## Articles and Poetry Published by Christy Hanson

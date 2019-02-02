@@ -1,5 +1,5 @@
 ---
-title: Christy Hanson
+title: Christy G. Hanson
 ---
 # Freelance Writer - [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ## Published Work

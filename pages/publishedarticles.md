@@ -3,7 +3,7 @@ title: Online Publications
 ---
 
 ## Published Work 
-Christy G. Hanson
+### Christy G. Hanson
 
 ### American Indian Republic 
 

@@ -46,7 +46,7 @@ title: Christy G. Hanson
 ---
 ## Poetry
 
-### Raven Chronicles, A Journal of Art, Literature &  The Spoken Word,  Vol. 20, summer 2014 - Seattle, WA
+### The Raven Chronicles, Vol. 20, Summer 2014 - Seattle, WA
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 2014 Pushcart Prize Nominee
 

@@ -2,12 +2,12 @@
 title: Online Publications
 ---
 
-# Christy G. Hanson
+## Christy G. Hanson
 #### Freelance Writer
 
 #### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 
-### Published Work
+## Published Work
 
 #### American Indian Republic - Puyallup, WA
 

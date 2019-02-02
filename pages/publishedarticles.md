@@ -8,7 +8,7 @@ title: Online Publications
 ## Published Work
 
 #### American Indian Republic - Puyallup, WA
-##### Jan 2018 - Present
+###### Jan 2018 - Present
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 
@@ -40,7 +40,7 @@ title: Online Publications
 (Nominated for the Pushcart Prize.)
 
 #### Alaska Pacific University - Anchorage, AK
-##### Jun - Aug 2012
+###### Jun - Aug 2012
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 

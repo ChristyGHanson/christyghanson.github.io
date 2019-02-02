@@ -40,6 +40,7 @@ title: Online Publications
 (Nominated for the Pushcart Prize.)
 
 #### Alaska Pacific University - Anchorage, AK
+##### Jun - Aug 2012
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 

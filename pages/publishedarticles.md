@@ -4,6 +4,7 @@ title: Online Publications
 
 # Christy G. Hanson
 ## chrsthnsn@gmail.com
+## https://www.linkedin.com/in/christyghanson/
 
 ## Published Work
 

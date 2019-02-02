@@ -44,7 +44,7 @@ title: Christy G. Hanson
 [Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
 
 ---
-### Poetry
+## Poetry
 
 ### The Raven Chronicles - Seattle, WA
 

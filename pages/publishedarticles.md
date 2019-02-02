@@ -29,10 +29,7 @@ title: Christy G. Hanson
 
 [Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
 
-### The Raven Chronicles - Seattle, WA
 
-["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
-(Nominated for the Pushcart Prize.)
 
 ### Alaska Pacific University - Anchorage, AK
 
@@ -43,6 +40,14 @@ title: Christy G. Hanson
 [First in her family to earn a college degree, Paoli credits APU’s work-friendly schedule](https://www.alaskapacific.edu/stories/first-in-her-family-to-earn-a-college-degree-paoli-credits-apus-work-friendly-schedule/)
 
 [Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
+
+---
+### Poetry
+---
+### The Raven Chronicles - Seattle, WA
+
+["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
+(Nominated for the Pushcart Prize.)
 
 ### DIN Magazine - Las Cruces, NM
 

@@ -5,7 +5,7 @@ title: Christy G. Hanson
 ---
 ## Articles
 
-### American Indian Republic - Puyallup, WA     Jan 2018 - Present
+### American Indian Republic - Puyallup, WA 
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 

@@ -2,7 +2,7 @@
 title: Christy G. Hanson
 ---
 # Freelance Writer - [LinkedIn](https://www.linkedin.com/in/christyghanson/)
-## Published Work
+
 ### American Indian Republic - Puyallup, WA
 ### Jan 2018 - Present
 

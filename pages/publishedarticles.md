@@ -7,7 +7,7 @@ title: Online Publications
 
 ## Published Work
 
-#### American Indian Republic - Puyallup, Washington
+#### American Indian Republic - Puyallup, WA
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 
@@ -33,12 +33,12 @@ title: Online Publications
 
 [Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
 
-#### The Raven Chronicles - Seattle, Washington
+#### The Raven Chronicles - Seattle, WA
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
 (Nominated for the Pushcart Prize.)
 
-#### Alaska Pacific University - Anchorage, Alaska
+#### Alaska Pacific University - Anchorage, AK
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 
@@ -48,7 +48,7 @@ title: Online Publications
 
 [Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
 
-#### DIN Magazine - Las Cruces, New Mexico
+#### DIN Magazine - Las Cruces, NM
 
 ["Chant This Song If You Get Touched By the White Man"](https://english.nmsu.edu/organizations/din-magazine/)
 

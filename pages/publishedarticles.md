@@ -5,7 +5,7 @@ title: Online Publications
 # Christy G. Hanson 
 ## Published Work
 
-#### American Indian Republic 
+#### American Indian Republic - Puyallup, Washington
 
 [Voices for Those Who Have Been Silenced: Missing and Murdered Indigenous Women](https://americanindianrepublic.com/voices-for-those-who-have-been-silenced-missing-and-murdered-indigenous-women/)
 
@@ -31,12 +31,12 @@ title: Online Publications
 
 [Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
 
-#### Raven Chronicles
+#### The Raven Chronicles - Seattle, Washington
 
 ["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 
 (Nominated for the Pushcart Prize.)
 
-#### Alaska Pacific University 
+#### Alaska Pacific University - Anchorage, Alaska
 
 [Cultural values and a fountain pen: My life in two worlds](https://www.alaskapacific.edu/cultural-values-fountain-pen-my-life-two-worlds/)
 
@@ -46,7 +46,7 @@ title: Online Publications
 
 [Planning to take one class, Dunno stayed on to earn an APU degree. Then another.](https://www.alaskapacific.edu/stories/planning-to-take-one-class-dunno-stayed-on-to-earn-an-apu-degree-then-another/)
 
-#### DIN Magazine
+#### DIN Magazine - Las Cruces, New Mexico
 
 ["Chant This Song If You Get Touched By the White Man"](https://english.nmsu.edu/organizations/din-magazine/)
 

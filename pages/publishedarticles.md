@@ -48,11 +48,11 @@ title: Christy G. Hanson
 
 ### The Raven Chronicles, Vol. 20, Summer 2014 - Seattle, WA
 
-["Every Time Gary Farmer Sings 'Hey Baby'"](http://www.ravenchronicles.org/shop/test-product/) 2014 Pushcart Prize Nominee
+2014 Pushcart Prize Nominee
 
 ### DIN Magazine - Las Cruces, NM
 
-["Chant This Song If You Get Touched By the White Man"](https://english.nmsu.edu/organizations/din-magazine/)
+
 
 
 

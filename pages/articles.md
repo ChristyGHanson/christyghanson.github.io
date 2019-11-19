@@ -1,7 +1,8 @@
 ---
-Christy G. Hanson's writings
+Christy G. Hanson
 ---
-### [LinkedIn Profile](https://www.linkedin.com/in/christyghanson/)
+### [Email](mailto:chrsthnsn@gmail.com)
+### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 ## Articles
 

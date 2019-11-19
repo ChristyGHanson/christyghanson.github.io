@@ -1,5 +1,7 @@
 ---
-Christy G. Hanson
+title: Christy G. Hanson
+---
+description: Christy G. Hanson's writings
 ---
 ### [Email](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)

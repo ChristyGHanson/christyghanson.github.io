@@ -55,6 +55,10 @@ Christy G. Hanson
 
 ### DIN Magazine - Las Cruces, NM
 
+---
+## Pro Bono Consulting
+I proofread and edit along with coaching writers.
+
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Christy G. Hanson
 ---
-### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
+description: Christy G. Hanson's writings
+---
+### [LinkedIn Profile](https://www.linkedin.com/in/christyghanson/)
 ---
 ## Articles
 

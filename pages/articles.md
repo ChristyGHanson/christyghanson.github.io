@@ -1,7 +1,5 @@
 ---
-title: Christy G. Hanson
----
-description: Christy G. Hanson's writings
+Christy G. Hanson's writings
 ---
 ### [LinkedIn Profile](https://www.linkedin.com/in/christyghanson/)
 ---

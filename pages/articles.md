@@ -63,7 +63,7 @@ I proofread and edit along with coaching writers.
 
 ---
 ## Work in Progress
-Bellevue College Capstone Project 2020
+Bellevue College - Capstone Project 2020
 
 
 

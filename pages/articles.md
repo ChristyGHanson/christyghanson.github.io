@@ -1,10 +1,10 @@
 ---
 title: Christy G. Hanson
 ---
-        Christy G. Hanson
+   Christy G. Hanson
 ---
-     ### [Email](mailto:chrsthnsn@gmail.com)
-     ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
+   ### [Email](mailto:chrsthnsn@gmail.com)
+   ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 ## Articles
 

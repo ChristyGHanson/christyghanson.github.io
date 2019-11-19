@@ -1,7 +1,7 @@
 ---
 title: Christy G. Hanson
 ---
-description: Christy G. Hanson's writings
+Christy G. Hanson
 ---
 ### [Email](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
@@ -60,6 +60,10 @@ description: Christy G. Hanson's writings
 ---
 ## Pro Bono Consulting
 I proofread and edit along with coaching writers.
+
+---
+## Work in Progress
+Bellevue College Capstone Project 2020
 
 
 

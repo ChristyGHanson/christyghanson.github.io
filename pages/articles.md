@@ -31,7 +31,9 @@ title: Christy G. Hanson
 
 [Healing: A Hidden Yucca Ball](https://americanindianrepublic.com/healing-a-hidden-yucca-ball/)
 
+[Taco Truck Challenge](https://americanindianrepublic.com/taco-truck-challenge/)
 
+[Songs Born From Tragedy: Honoring the Missing and Murdered](https://americanindianrepublic.com/songs-born-from-tragedy-honoring-the-missing-and-murdered/)
 
 ### Alaska Pacific University - Anchorage, AK
 

@@ -64,6 +64,7 @@ I proofread and edit content, and I also coach writers.
 ---
 ## Work in Progress
 MMIW Essay for an upcoming Native American anthology
+
 Bellevue College - Capstone Project 2020
 
 

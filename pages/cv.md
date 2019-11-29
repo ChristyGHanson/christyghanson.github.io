@@ -68,7 +68,7 @@ I proofread and edit content, and I also coach writers.
 
 ---
 ## Work in Progress
-MMIW Essay for an upcoming Native American anthology
+MMIW Essay for an upcoming Native American anthology by Marijo Moore.
 
 Bellevue College - Capstone Project 2020
 

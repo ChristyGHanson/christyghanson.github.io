@@ -6,6 +6,11 @@ Christy G. Hanson
 ### [Email](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
+## Awards
+### Pactera 2019 Q4 Peer Award
+Recognition for technical documentation and team leadership.
+
+---
 ## Articles
 
 ### American Indian Republic - Puyallup, WA 

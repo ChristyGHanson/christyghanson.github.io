@@ -8,7 +8,7 @@ Christy G. Hanson
 ---
 ## Awards
 ### Pactera 2019 Q4 Peer Award
-Recognition for technical documentation and user guides.
+Recognition for digital technical documentation and user guides.
 
 ---
 ## Articles

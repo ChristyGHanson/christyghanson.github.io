@@ -7,8 +7,9 @@ title: Christy G. Hanson
 
 Christy G. Hanson is a writer from New Mexico who now calls Redmond, Washington her home.
 Her freelance work has been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles
-and DIN Magazine. She was nominated for the 2014 Pushcart Prize. She holds a BA in English from New Mexico State University.
-Currently she is a transcriber at Pactera, where she earned a Pactera Peer Award for her technical documentation and user guides.
+and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University.
+Currently she is a transcriber at Pactera, where she prepares data sets for machine learning. Christy recently 
+earned a Pactera Peer Award for her technical documentation and user guides.
 
 ---
 ## Technical Writing

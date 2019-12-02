@@ -3,7 +3,7 @@ title: Christy G. Hanson
 ---
 # Christy G. Hanson
                                      
-### [Contact](mailto:chrsthnsn@gmail.com) Available for technical writing and editing opportunities.
+### [Contact](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 

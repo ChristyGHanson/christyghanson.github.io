@@ -66,6 +66,8 @@ Recognition for digital technical documentation and user guides.
 ## Pro Bono Consulting
 I proofread and edit content, and I also coach writers.
 
+I am a proofreader for Project Gutenberg.
+
 ---
 ## Work in Progress
 MMIW Essay for an upcoming Native American anthology by Marijo Moore.

@@ -63,18 +63,16 @@ Recognition for digital technical documentation and user guides.
 ### DIN Magazine - Las Cruces, NM
 
 ---
-## Volunteer Editing and Writing Projects
+## Volunteer Projects
 
 ### Project Gutenberg
 
-### Freelance Writer
+Proofread historically significant books in preparation for the Project Gutenberg public archive.
+
+### Editor
+
 I proofread and edit content, and I also coach writers.
 
----
-## Work in Progress
-MMIW Essay for an upcoming Native American anthology by Marijo Moore.
-
-Bellevue College - Capstone Project 2020
 
 
 

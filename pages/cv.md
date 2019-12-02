@@ -1,7 +1,10 @@
 ---
 title: Christy G. Hanson
 ---
-Christy G. Hanson
+# Christy G. Hanson
+                                     
+### [Email](mailto:chrsthnsn@gmail.com)       
+### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 
 Christy G. Hanson is a writer from New Mexico who now calls Redmond, Washington her home.
@@ -9,9 +12,6 @@ Her freelance work has been featured in American Indian Republic. Her poetry has
 and DIN Magazine. She was nominated for the 2014 Pushcart Prize. She holds a BA in English from New Mexico State University.
 Currently she is a transcriber at Pactera, where she earned a Pactera Peer Award for her technical documentation and user guides.
 
----
-### [Email](mailto:chrsthnsn@gmail.com)
-### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 ## Awards
 ### Pactera 2019 Q4 Peer Award

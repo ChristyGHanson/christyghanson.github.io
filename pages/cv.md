@@ -18,6 +18,11 @@ Currently she is a transcriber at Pactera, where she earned a Pactera Peer Award
 Recognition for digital technical documentation and user guides.
 
 ---
+## Technical Writing
+
+* Pactera Technologies
+
+---
 ## Articles
 
 ### American Indian Republic - Puyallup, WA 

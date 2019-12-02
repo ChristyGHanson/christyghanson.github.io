@@ -1,10 +1,6 @@
 ---
 title: Christy G. Hanson
----
-{% include header.md %}
-
-# Christy G. Hanson
-                                     
+---                                   
 ### [Contact](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---

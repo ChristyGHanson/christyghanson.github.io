@@ -3,6 +3,13 @@ title: Christy G. Hanson
 ---
 Christy G. Hanson
 ---
+
+Christy G. Hanson is a writer from New Mexico who now calls Redmond, Washington her home.
+Her freelance work has been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles
+and DIN Magazine. She was nominated for the 2014 Pushcart Prize. She holds a BA in English from New Mexico State University.
+Currently she is a transcriber at Pactera, where she earned a Pactera Peer Award for her technical documentation and user guides.
+
+---
 ### [Email](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
@@ -69,9 +76,9 @@ Recognition for digital technical documentation and user guides.
 
 Proofread historically significant books in preparation for the Project Gutenberg public archive.
 
-### Editor
+### Proofreader & Editor
 
-I proofread and edit content, and I also coach writers.
+Proofread and edit college essays, copy, and articles for publication.
 
 
 

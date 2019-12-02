@@ -1,6 +1,3 @@
----
-title: Christy G. Hanson
----
 Christy G. Hanson
 ---
 ### [Email](mailto:chrsthnsn@gmail.com)
@@ -73,6 +70,9 @@ Proofread historically significant books in preparation for the Project Gutenber
 
 I proofread and edit content, and I also coach writers.
 
+---
+title: Christy G. Hanson
+---
 
 
 

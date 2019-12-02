@@ -1,3 +1,5 @@
 theme: jekyll-theme-midnight
-title: Christy G. Hanson
+title: Christy G. Hanson 
+# Adding "title: Lorem ipsum" allows me to add a different title to my Jekyll layout.
+# The default title for this page is "christyghanson.github.io"
 

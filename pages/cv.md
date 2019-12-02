@@ -79,7 +79,7 @@ Recognition for digital technical documentation and user guides.
 
 ### Project Gutenberg
 
-Proofread historically significant books in preparation for the Project Gutenberg public archive.
+Proofread historically significant books for the Project Gutenberg public archive.
 
 ### Proofreader & Editor
 

@@ -63,10 +63,12 @@ Recognition for digital technical documentation and user guides.
 ### DIN Magazine - Las Cruces, NM
 
 ---
-## Pro Bono Consulting
-I proofread and edit content, and I also coach writers.
+## Volunteer Editing and Writing Projects
 
-I am a proofreader for Project Gutenberg.
+### Project Gutenberg
+
+### Freelance Writer
+I proofread and edit content, and I also coach writers.
 
 ---
 ## Work in Progress

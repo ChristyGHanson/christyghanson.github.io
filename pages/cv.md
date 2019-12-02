@@ -17,7 +17,7 @@ earned a Pactera Peer Award for her technical documentation and user guides.
 * Pactera Technologies
 
 ---
-## Articles
+## Published Articles
 
 ### American Indian Republic - Puyallup, WA 
 

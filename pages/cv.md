@@ -11,11 +11,6 @@ and DIN Magazine. She was nominated for the 2014 Pushcart Prize. She holds a BA 
 Currently she is a transcriber at Pactera, where she earned a Pactera Peer Award for her technical documentation and user guides.
 
 ---
-## Awards
-### Pactera 2019 Q4 Peer Award
-Recognition for digital technical documentation and user guides.
-
----
 ## Technical Writing
 
 * Pactera Technologies

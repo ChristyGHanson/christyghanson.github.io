@@ -2,5 +2,4 @@
 
 Christy Hanson
 
--Writing Projects
--Poetry
+CV

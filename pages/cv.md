@@ -2,7 +2,7 @@
 title: Christy G. Hanson
 ---                                   
 <meta name="keywords" 
-         content="Christy Hanson Redmond github pages technical writer English documentation communication American Indian Republic">
+         content="Christy Hanson Redmond github pages technical writer navajo alaska teacher tohatchi pushcart prize pactera content English documentation communication seattle washington tohatchi new mexico american indian republic">
          
 ### [Contact](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)

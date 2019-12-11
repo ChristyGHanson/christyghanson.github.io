@@ -2,7 +2,7 @@
 title: Christy G. Hanson
 ---                                   
 <meta name="keywords" 
-         content="Christy Hanson Redmond technical writer English documentation communication American Indian Republic">
+         content="Christy Hanson Redmond github pages technical writer English documentation communication American Indian Republic">
          
 ### [Contact](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)

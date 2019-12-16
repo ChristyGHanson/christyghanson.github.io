@@ -8,7 +8,7 @@ title: Christy G. Hanson
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 
-Christy G. Hanson is a writer who lives Redmond, Washington home. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University. Currently she is an audio transcriber and technical communicator at Pactera, where she prepares data sets for machine learning and maintains team documentation. Christy earned a Pactera Peer Award this past November for her team's documentation and how-to guides.
+Christy G. Hanson is a writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University. Currently she is a data analyst and technical communicator at Pactera, where she prepares data sets for machine learning and maintains team documentation. Christy earned a Pactera Peer Award this past November for her ongoing commitment to her team's technical documentation.
 
 ---
 ## Technical Writing

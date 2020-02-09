@@ -15,7 +15,7 @@ At Pactera Edge, she started off as a data analyst and technical writer; she pre
 ---
 ## Technical Writing
 
-* [Pactera Edge] (https://www.pactera-edge.com/)
+* [Pactera Edge](https://www.pactera-edge.com/)
 
 ---
 ## Published Articles

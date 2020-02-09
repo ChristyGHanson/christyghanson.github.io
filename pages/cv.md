@@ -2,18 +2,20 @@
 title: Christy G. Hanson
 ---                                   
 <meta name="keywords" 
-         content="Christy Hanson Redmond github pages technical writer navajo alaska teacher tohatchi pushcart prize pactera content English documentation communication seattle washington tohatchi new mexico american indian republic">
+         content="Christy Gayle Hanson technical writer Redmond content writer editor travel microsoft English documentation communication seattle washington american indian republic pactera edge">
          
 ### [Contact](mailto:chrsthnsn@gmail.com)
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 
-Christy G. Hanson is a writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University. Currently she is a data analyst and technical communicator at Pactera, where she prepares data sets for machine learning and maintains team documentation. Christy earned a Pactera Peer Award this past November for her ongoing commitment to her team's technical documentation.
+Christy G. Hanson is a content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University. 
+
+At Pactera Edge, she started off as a data analyst and technical writer; she prepared data sets for machine learning, wrote how-to guides, and maintained technical documentation. Christy earned a Pactera Peer Award in November 2019 for initiating and committing to technical writing and documentation efforts within the team.
 
 ---
 ## Technical Writing
 
-* Pactera Technologies
+* [Pactera Edge] (https://www.pactera-edge.com/)
 
 ---
 ## Published Articles
@@ -68,12 +70,14 @@ Christy G. Hanson is a writer who lives in Redmond, Washington. Her freelance ar
 ### DIN Magazine - Las Cruces, NM
 
 ---
-## Volunteer Projects
+## Volunteer Writing and Editing Projects
+
+### Proofreader & Editor
+
+Proofread and edit short and long-form content for publication.
 
 ### Project Gutenberg
 
 Proofread historically significant books for the Project Gutenberg public archive.
 
-### Proofreader & Editor
 
-Proofread and edit college essays, copy, and articles for publication.

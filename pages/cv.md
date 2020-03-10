@@ -83,6 +83,7 @@ Proofread historically significant books for the Project Gutenberg public archiv
 ---
 ## Lectures & Presentations
 
-### DIYOGI * [Spirituality & Artist Relationship to Materials](https://www.biartmuseum.org/event/spirituality-artist-relationship-to-materials/) - Fiber Arts Festival 2020, Bainbridge Island Museum of Art, WA
+### DIYOGI 
+* [Spirituality & Artist Relationship to Materials](https://www.biartmuseum.org/event/spirituality-artist-relationship-to-materials/) - Fiber Arts Festival 2020, Bainbridge Island Museum of Art, WA
 
 

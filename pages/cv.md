@@ -8,9 +8,9 @@ title: Christy G. Hanson
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 
-Christy G. Hanson is a travel content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University and a certificate in technical writing from Bellevue College.
-
-At Pactera Edge, she started off as a data analyst and technical writer; she prepared data sets for machine learning, wrote how-to guides, and maintained technical documentation. Christy earned a Pactera Peer Award in November 2019 for initiating and committing to technical writing and documentation efforts within the team.
+>Christy G. Hanson is a travel content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University and a certificate in technical writing from Bellevue College.
+>
+>At Pactera Edge, she started off as a data analyst and technical writer; she prepared data sets for machine learning, wrote how-to guides, and maintained technical documentation. Christy earned a Pactera Peer Award in November 2019 for initiating and committing to technical writing and documentation efforts within the team.
 
 ---
 ## Technical Writing

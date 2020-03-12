@@ -1,6 +1,6 @@
 ---
 title: Christy G. Hanson
-===                                   
+---                                 
 <meta name="keywords" 
          content="technical writer Redmond Seattle Bellevue Issaquah Washington">
          

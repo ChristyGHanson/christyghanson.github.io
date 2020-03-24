@@ -74,11 +74,11 @@ At Pactera EDGE, she started off as a transcriptionist for machine learning and 
 
 ### Proofreader & Editor
 
-Proofread and edit short and long-form content for clients.
+* Proofread and edit short and long-form content for clients.
 
 ### Project Gutenberg
 
-Transcribe historically significant books for the Project Gutenberg public archive.
+*Transcribe historically significant books for the Project Gutenberg public archive.
 
 ---
 ## Public Presentations

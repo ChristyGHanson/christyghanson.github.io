@@ -8,14 +8,14 @@ title: Christy G. Hanson
 ### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
 ---
 
->Christy G. Hanson is a travel content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University and a certificate in technical writing from Bellevue College.
->
->At Pactera Edge, she started off as a data analyst and technical writer; she prepared data sets for machine learning, wrote how-to guides, and maintained technical documentation. Christy earned a Pactera Peer Award in November 2019 for initiating and committing to technical writing and documentation efforts within the team.
+Christy Hanson is a travel content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University and a certificate in technical writing from Bellevue College.
+
+At Pactera Edge, she started off as a transcriptionist for machine learning and technical writer. Christy earned a Pactera Peer Award in November 2019 for initiating and committing to technical writing and documentation.
 
 ---
 ## Technical Writing
 
-* [Pactera Edge](https://www.pactera-edge.com/)
+* [Pactera EDGE](https://www.pactera-edge.com/)
 
 ---
 ## Published Articles
@@ -70,18 +70,18 @@ title: Christy G. Hanson
 ### DIN Magazine - Las Cruces, NM
 
 ---
-## Volunteer Writing and Editing Projects
+## Writing and Editing Projects
 
 ### Proofreader & Editor
 
-Proofread and edit short and long-form content for publication.
+Proofread and edit short and long-form content for clients.
 
 ### Project Gutenberg
 
-Proofread historically significant books for the Project Gutenberg public archive.
+Transcribe historically significant books for the Project Gutenberg public archive.
 
 ---
-## Lectures & Presentations
+## Public Presentations
 
 ### DIYOGI 
 * [Spirituality & Artist Relationship to Materials](https://www.biartmuseum.org/event/spirituality-artist-relationship-to-materials/) - Bainbridge Island Museum of Art

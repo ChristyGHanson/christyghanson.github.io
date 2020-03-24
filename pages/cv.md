@@ -78,7 +78,7 @@ At Pactera EDGE, she started off as a transcriptionist for machine learning and 
 
 ### Project Gutenberg
 
-*Transcribe historically significant books for the Project Gutenberg public archive.
+* Transcribe historically significant books for the Project Gutenberg public archive.
 
 ---
 ## Public Presentations

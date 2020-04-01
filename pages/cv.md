@@ -5,7 +5,7 @@ title: Christy G. Hanson
          content="technical writer Redmond Seattle Bellevue Issaquah Washington">
          
 ### [Contact](mailto:chrsthnsn@gmail.com)
-### [LinkedIn](https://www.linkedin.com/in/christyghanson/)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="christyghanson"><a class="LI-simple-link" href='https://www.linkedin.com/in/christyghanson?trk=profile-badge'>Christy Hanson</a></div>
 ---
 
 Christy Hanson is a travel content writer who lives in Redmond, Washington. Her freelance articles have been featured in American Indian Republic. Her poetry has appeared in The Raven Chronicles and DIN Magazine, and she is a Pushcart Prize nominee. She holds a BA in English from New Mexico State University and a certificate in technical writing from Bellevue College.
